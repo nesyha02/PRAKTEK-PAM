@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "404954467586",
+    "firebase_url": "https://latihanfirebase-ifcsg-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "latihanfirebase-ifcsg",
+    "storage_bucket": "latihanfirebase-ifcsg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404954467586:android:4302fd5e1bc34ba39b461b",
+        "android_client_info": {
+          "package_name": "com.example.latihanfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD415YHSDv16eTpjFJri3ljtaxKgEOXY_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404954467586:android:177512f7d760d5f99b461b",
+        "android_client_info": {
+          "package_name": "com.example.latihanfirebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD415YHSDv16eTpjFJri3ljtaxKgEOXY_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
